@@ -1,0 +1,6 @@
+{
+    "extends": ["eslint:recommended", "standard"],
+    "rules": {
+        "import/export": 0
+    }
+}
